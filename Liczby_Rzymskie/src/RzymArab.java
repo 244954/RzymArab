@@ -134,6 +134,8 @@ public class RzymArab
 				else
 				{
 					curr--;
+					curr++;
+					curr--;
 				}
 			}
 		}
